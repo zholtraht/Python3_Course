@@ -1,33 +1,25 @@
 # CURSO-PYTHON3
  Meu progresso no curso de python3, ministrado pelo Prof. Gustavo Guanabara.
 
- Este repositório documenta minha jornada de aprendizado no curso de Python 3 do Prof. Gustavo Guanabara. Aqui você encontrará:
+ **Este repositório documenta minha jornada de aprendizado no curso de Python 3 do Prof. Gustavo Guanabara. Aqui você encontrará:**
  
- **Anotações detalhadas de cada aula**
- 
- **Códigos completos dos exercícios**
- 
- **Dúvidas e soluções**
+ - Anotações detalhadas de cada aula.
+ - Códigos completos dos exercícios.
+ - Dúvidas e soluções.
 
- Objetivos:
+ **Objetivos:**
 
- **Aprofundar meu conhecimento em Python 3.**
- 
- **Desenvolver habilidades de resolução de problemas**
- 
- **Criar um portfólio de projetos práticos em Python.**
- 
- **Conectar-me com outros entusiastas da linguagem.**
+ - Aprofundar meu conhecimento em Python 3.
+ - Desenvolver habilidades de resolução de problemas.
+ - Criar um portfólio de projetos práticos em Python.
+ - Conectar-me com outros entusiastas da linguagem.
 
- Público-alvo:
+ **Público-alvo:**
 
- **Estudantes de Python 3.**
- 
- **Programadores que desejam aprimorar suas habilidades em Python.**
- 
- **Entusiastas da tecnologia que buscam aprender uma nova linguagem de programação.**
+ - Estudantes de Python 3.
+ - Programadores que desejam aprimorar suas habilidades em Python.
+ - Entusiastas da tecnologia que buscam aprender uma nova linguagem de programação.
 
-'====='
 
 *NOTA*
 
