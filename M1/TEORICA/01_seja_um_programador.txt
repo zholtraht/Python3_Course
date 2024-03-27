@@ -1,0 +1,15 @@
+01 - Seja um Programador
+
+Introdução:
+
+Assim como toda boa aula introdutória, o professor Guanabara nos introduz à programação de forma simplificada, com o objetivo de garantir que pessoas com pouco ou nenhum conhecimento possam entender claramente do que se trata essa área.
+
+Conteúdo da aula:
+
+Nesta primeira aula, não colocamos a "mão na massa", pois antes é necessário conhecer os princípios da "ferramenta":
+
+Onde ela pode ser usada: A programação pode ser usada em diversos campos, como desenvolvimento web, criação de jogos, análise de dados, inteligência artificial, entre outros.
+Que tipo de problemas são resolvidos: A programação permite automatizar tarefas, criar soluções inovadoras e resolver problemas complexos de diversas áreas.
+Conclusão:
+
+A aula serve como um convite para um outro mundo de possibilidades infinitas, despertando a curiosidade e o interesse do aluno pela área da programação.
