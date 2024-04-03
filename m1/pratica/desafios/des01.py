@@ -1,3 +1,3 @@
-n = input('Digite seu nome...')
+n = input('Digite seu nome… ')
 
-print(f'Vejamos...É um prazer conhece-lo, {n}!! Seja muito bem vindo!!!')
+print(f'Vejamos... É um prazer conhecê-lo, {n}!! Seja muito bem-vindo!!!')
