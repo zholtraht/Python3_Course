@@ -1,6 +1,4 @@
-n = str(input('Digite o seu nome… '))
-d = int(input('Dia do nascimento… '))
-m = str(input('Mês do nascimento… '))
-a = int(input('Ano do nascimento… '))
+n1 = int(input('Digite um número… '))
+n2 = int(input('Digite outro número… '))
 
-print(f'Muito bem, {n}!! Você nasceu no dia {d}, de {m}, de {a}. Correto?.')
+print(f'Muito bem!! A soma entre {n1} e {n2}, é {n1 + n2}.')

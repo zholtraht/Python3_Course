@@ -1,4 +1,14 @@
-n1 = int(input('Digite um número… '))
-n2 = int(input('Digite outro número… '))
+v = input('Digite algo...')
 
-print(f'Muito bem!! A soma entre {n1} e {n2}, é {n1 + n2}.')
+print(f'''
+Vejamos...voce digitou {v}.
+     
+Tipo primitivo: {type(v)}
+Es numerico?: {v.isnumeric()}
+Es alfabetico?: {v.isalpha()}
+Es alfanumerico?: {v.isalnum()}
+Es somente espacos?: {v.isspace()}
+Es somente maiusculas?: {v.isupper()}
+Es somente minusculas?: {v.islower()}
+Es capitalizado?: {v.istitle()}
+''')
