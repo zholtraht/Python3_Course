@@ -1,4 +1,4 @@
-v = input('Digite algo...')
+v = input('Digite algo... ')
 
 print(f'''
 Vejamos...voce digitou {v}.
