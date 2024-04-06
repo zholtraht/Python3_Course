@@ -9,6 +9,6 @@ Está alfabético? {v.isalpha()}
 Está alfanumérico? {v.isalnum()}
 Estão somente espaços? {v.isspace()}
 Estão somente maiúsculas? {v.isupper()}
-Es somente minusculas?: {v.islower()}
-Es capitalizado?: {v.istitle()}
+Estão somente minusculas? {v.islower()}
+Está capitalizado? {v.istitle()}
 ''')
