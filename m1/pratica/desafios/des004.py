@@ -1,7 +1,7 @@
 v = input('Digite algo... ')
 
 print(f'''
-Vejamos...voce digitou {v}.
+Vejamos... você digitou {v}.
      
 Tipo primitivo: {type(v)}
 Es numerico?: {v.isnumeric()}
