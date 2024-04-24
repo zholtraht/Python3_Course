@@ -1,6 +1,6 @@
-from random import randrange
+from random import randint
 
-n = randrange(0, 5)
+n = randint(0, 5)
 
 print('''
 Acabo de pensar em um numero inteiro de 0 a 5
