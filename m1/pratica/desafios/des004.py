@@ -1,14 +1,26 @@
-v = input('Digite algo... ')
+#Faça um programa que:
+#Leia algo pelo teclado.
+#Mostre na tela o seu tipo primitivo.
+#Mostre todas as informações possíveis sobre ele.
 
-print(f'''
+v = input("Digite algo... ")
+
+print(f"""
 Vejamos... você digitou {v}.
-     
-Tipo primitivo: {type(v)}
-Está numerado? {v.isnumeric()}
-Está alfabético? {v.isalpha()}
-Está alfanumérico? {v.isalnum()}
-Estão somente espaços? {v.isspace()}
-Estão somente maiúsculas? {v.isupper()}
-Estão somente minusculas? {v.islower()}
-Está capitalizado? {v.istitle()}
-''')
+
+Tipo primitivo: {type(v)}.
+{'=' * 15}
+Está numérico? {v.isnumeric()}.
+{'=' * 15}
+Está alfabético? {v.isalpha()}.
+{'=' * 15}
+Está alfanumérico? {v.isalnum()}.
+{'=' * 15}
+Estão somente espaços? {v.isspace()}.
+{'=' * 15}
+Estão somente maiúsculas? {v.isupper()}.
+{'=' * 15}
+Estão somente minusculas? {v.islower()}.
+{'=' * 15}
+Está capitalizado? {v.istitle()}.
+""")
