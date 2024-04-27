@@ -1,4 +1,4 @@
-#Faça um programa que:
+#Crie um programa que:
 #Leia algo pelo teclado.
 #Mostre na tela o seu tipo primitivo.
 #Mostre todas as informações possíveis sobre ele.
