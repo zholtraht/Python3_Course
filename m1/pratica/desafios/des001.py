@@ -1,3 +1,8 @@
-m = 'Ola, Mundo!!!'
+"""
+Crie um programa que exiba a mensagem "Olá, mundo!!!"
+"""
+-----------------------------------------------------
 
-print(f'{m}')
+mensagem = "Olá, mundo!!!"
+
+print(f"{mensagem}")
