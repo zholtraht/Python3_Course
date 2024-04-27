@@ -1,5 +1,8 @@
-#Crie um programa que exiba a mensagem "Olá, mundo!!!"
+#Crie um programa que:
+#Exiba a mensagem "Olá, mundo!!!".
 
 mensagem = "Olá, mundo!!!"
 
-print(f"{mensagem}")
+print(f"""
+{mensagem}.
+""")
