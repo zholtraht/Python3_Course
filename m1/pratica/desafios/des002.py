@@ -1,3 +1,11 @@
-n = str(input('Digite seu nome… '))
+#Faça um programa que:
+#Leia o nome de uma pessoa.
+#Mostre uma mensagem de boas-vindas. 
 
-print(f'Vejamos... É um prazer conhecê-lo, {n}!! Seja muito bem-vindo!!!')
+nome = str(input("Seu nome… "))
+
+print(f"""
+Saudações, {nome}!!
+
+Seja muito bem-vindo(a)!!.
+""")
