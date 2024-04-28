@@ -1,5 +1,9 @@
-n = str(input('Seu nome...')).strip().lower().title()
+#Crie um programa que:
+#Leia o nome de uma pessoa.
+#Diga se ela tem “SILVA” no nome.
 
-print(f'''
-Seu nome tem Silva? {'Silva' in n}
-''')
+n = str(input("Seu nome... ")).strip().lower().title()
+
+print(f"""
+Seu nome tem 'Silva'? {'Silva' in n}
+""")
