@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C0AE00&random=false&width=435&lines=CURSO-PYTHON3_)](https://git.io/typing-svg)
  
- Meu progresso no curso de python3, ministrado pelo Prof. Gustavo Guanabara.
 ---
+
  **Este repositório documenta minha jornada de aprendizado no curso de Python 3 do Prof. Gustavo Guanabara. Aqui você encontrará:**
  
  - Anotações detalhadas de cada aula.
