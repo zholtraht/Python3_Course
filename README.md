@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C0AE00&random=false&width=435&lines=CURSO-PYTHON3_)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&pause=1000&color=2CC200&random=false&width=435&lines=%3E%3E%3E+CURSO_PYTHON3_)](https://git.io/typing-svg)
+
 ---
 
  **Este repositório documenta minha jornada de aprendizado no curso de Python 3 do Prof. Gustavo Guanabara. Aqui você encontrará:**
