@@ -5,7 +5,8 @@ af = int(input("Anos de financiamento... "))
 vp = vc / (af * 12)
 
 if vp > (sc * 30) / 100:
-    print("""
+    print(
+"""
 NEGADO!!
 
 O valor da prestação mensal excedeu 30% de seu salario.
@@ -13,7 +14,8 @@ O empréstimo nao pode ser aprovado...
 """)
     
 else:
-    print("""
+    print(
+"""
 APROVADO!!
           
 O valor da prestação mensal esta dentro de sua margem salarial.
