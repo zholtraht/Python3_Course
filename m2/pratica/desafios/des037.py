@@ -1,6 +1,7 @@
 n = int(input("Um numero... "))
 
-print(f"""
+print(
+f"""
 {'=' * 12}
 [ 1 ] BINARIO.
 [ 2 ] OCTAL.
