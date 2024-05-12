@@ -1,24 +1,4 @@
 from datetime import date
-
-print(
-f"""
-{'=' * 16}
-[ m ] masculino.
-[ f ] feminino.
-{'=' * 16}
-""")
-
-s = str(input(
-"""
-Qual o seu sexo? (m / f) """)).lower()
-
-if s == 'f':
-    print(
-"""
-O serviso obrigatorio de alistamento, so e atribuido a cidadoes do sexo masculino.
-""")
-
-quit()
     
 da = date.today().year
 an = int(input("Ano de nascimento... "))
