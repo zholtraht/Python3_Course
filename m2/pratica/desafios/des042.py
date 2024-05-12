@@ -7,11 +7,22 @@ c2 = (ps + ts)
 c3 = (ps + ss)
 
 if ps < c1 and ss < c2 and ts < c3:
-    print(
-    f"Um triangulo foi formado:")
+    print(f"""
+Um triangulo foi formado:""")
 
     if ps == ss == ts:
-        print(f"TRIANGULO EQUILATERO")
-    
+        print("""
+TRIANGULO EQUILATERO""")
+
+    elif ps != ss != ts != ps:
+        print("""
+TRIANGULO ESCALENO""")
+        
+    else:
+        print("""
+TRIANGULO ISOCELES""")
+
 else:
-    print("Um triangulo NAO PODE ser formado.")
+    print(
+"""
+Um triangulo NAO PODE ser formado.""")
