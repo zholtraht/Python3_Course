@@ -12,7 +12,6 @@
 
  - Aprofundar meu conhecimento em Python 3.
  - Desenvolver habilidades de resolução de problemas.
- - Criar um portfólio de projetos práticos em Python.
  - Conectar-me com outros entusiastas da linguagem.
 ---
  **Público-alvo:**
