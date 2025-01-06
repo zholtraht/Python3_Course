@@ -4,7 +4,6 @@
 
  **Este repositório documenta minha jornada de aprendizado no curso de Python 3 do Prof. Gustavo Guanabara. Aqui você encontrará:**
  
- - Anotações detalhadas de cada aula.
  - Códigos completos dos exercícios.
 
 ---
